@@ -1,5 +1,6 @@
 {
-  "name": "test-vue-2",
+  "name": "vue-fractions-calc",
+  "author": "Dima Golosov <golosovdl@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "lodash": "^4.17.20",
+    "v-mask": "^2.2.3",
     "vue": "^2.6.11"
   },
   "devDependencies": {
