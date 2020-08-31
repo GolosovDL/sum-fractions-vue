@@ -1,6 +1,6 @@
-# vue-fractions-calc
+# Sum Fractions in VueJS
 
-
+![Overview](https://i.ibb.co/Wnb3C8J/overview.gif)
 
 ## Project setup
 ```
